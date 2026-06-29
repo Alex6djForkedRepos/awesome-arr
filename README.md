@@ -7,7 +7,6 @@
 - [Primary \*arrs](#primary-arrs)
 - [Indexer Managers](#indexer-managers)
 - [Resources](#resources)
-- [\*arrs with Additional Functionality](#arrs-with-additional-functionality)
 - [Beyond \*arr](#beyond-arr)
 - [Complimenting Apps](#complimenting-apps)
 - [Bots](#bots)
@@ -32,11 +31,6 @@
 
 - [Servarr](https://wiki.servarr.com/) - The consolidated wiki for Lidarr, Prowlarr, Radarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
-
-## *arrs with Additional Functionality
-
-- [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a Docker image.
-- [Sonarr (mod)](https://github.com/Snaacky/Sonarr)[^1] - An anime-focused fork of Sonarr's v4 develop branch for CJK media.
 
 [^1]: Disclaimer: The author is a friend of mine.
 
